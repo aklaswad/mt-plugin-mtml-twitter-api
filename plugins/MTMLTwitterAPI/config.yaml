@@ -1,0 +1,8 @@
+name: MTMLTwitterAPI
+description: MTML tag collection to access to twitter.
+author_name: Akira Sawada
+author_link: 'http://blog.aklaswad.com/'
+tags:
+    block:
+        TwitterMentions: $MTMLTwitterAPI::MTMLTwitterAPI::_hdlr_mentions
+        TwitterStatusUpdate: $MTMLTwitterAPI::MTMLTwitterAPI::_hdlr_status_update
