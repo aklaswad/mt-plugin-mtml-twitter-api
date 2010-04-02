@@ -5,4 +5,5 @@ author_link: 'http://blog.aklaswad.com/'
 tags:
     block:
         TwitterMentions: $MTMLTwitterAPI::MTMLTwitterAPI::_hdlr_mentions
+        TwitterFriendsTimeline: $MTMLTwitterAPI::MTMLTwitterAPI::_hdlr_friends_timeline
         TwitterStatusUpdate: $MTMLTwitterAPI::MTMLTwitterAPI::_hdlr_status_update
